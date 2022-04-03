@@ -1,1 +1,1 @@
-# HackerRank_ProblemSolving_SQL
+# SQL problems' solutions 
